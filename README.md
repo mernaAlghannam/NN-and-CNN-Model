@@ -11,7 +11,7 @@ recall 0.98 <br>
 
 **Convolutional Neural Network on CIFAR image dataset:** <br>
 Trained my model on AlexNet CNN arcitecture, and receieved accuracy of **79%**. This method is called transfer learning. <br>
-I created the model with the artitecture that I created and acheived 53% accuracy. It can be better optimized by added more conv layers and other parameters in achitecture. (Can be optimized as a future project) <br>
+I created the model with the artitecture that I created and acheived 53% accuracy. It can be better optimized by added more conv layers and augmentation methods in achitecture. (Can be optimized as a future project) <br>
 **TODO:** I will summarize some CNN concepts in the notebook. <br><br>
 
 **Saliency map:** <br>
