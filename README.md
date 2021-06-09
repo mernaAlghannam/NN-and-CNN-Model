@@ -17,4 +17,6 @@ I created the model with the artitecture that I created and acheived 53% accurac
 **Saliency map:** <br>
 Created a saliency map from my cnn model to to help visualize the model. <br>
 **TODO:** I will summarize some Saliency map concepts in the notebook and other concepts for model interpretibility.<br>
-![image](https://user-images.githubusercontent.com/46355198/121231573-8c39a080-c85e-11eb-9681-29b4ed9c4d3d.png)
+![image](https://user-images.githubusercontent.com/46355198/121438670-6f7e9500-c952-11eb-984b-c1b0265e73a8.png) <br>
+![image](https://user-images.githubusercontent.com/46355198/121438706-7f967480-c952-11eb-9c57-637f371981b6.png)
+
